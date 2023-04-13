@@ -8,4 +8,5 @@
 系统变量-path-添加文件夹（qt-qt版本号-mingw-bin）
 无法连接到库的时候：
 在qt的tools中找到mingw-bin
-配置到最前边![iShot_2023-04-13_21 37 25](https://user-images.githubusercontent.com/63986390/231790038-1de3a843-f3f5-4f35-ba45-20f9ab896968.gif)
+配置到最前边!
+![iShot_2023-04-13_22 28 35](https://user-images.githubusercontent.com/63986390/231791573-4a5a9efd-34d6-4b53-8452-8abac1f1f431.gif)
